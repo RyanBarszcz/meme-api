@@ -2,12 +2,9 @@
   "name": "meme-error-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "private": true,
   "keywords": [],
-  "author": "",
+  "author": "Ryan Barszcz",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
